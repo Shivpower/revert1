@@ -1,3 +1,6 @@
 this is first
+<<<<<<< HEAD
 thiss seconf
 \thisjbasjd
+=======
+>>>>>>> parent of e97027e (this is first c2m)
