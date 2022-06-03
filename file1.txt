@@ -1,6 +1,3 @@
 this is first
-<<<<<<< HEAD
-thiss seconf
+tiss seconf
 \thisjbasjd
-=======
->>>>>>> parent of e97027e (this is first c2m)
